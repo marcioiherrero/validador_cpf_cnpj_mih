@@ -1,0 +1,12 @@
+[package]
+name = "validador_cpf_cnpj_mih"
+version = "0.1.1"
+edition = "2024"
+authors = ["Marcio I. Herrero <marcioiherrero@gmail.com>"]
+description = "Biblioteca de validador de número de CPF e CNPJ"
+license = "MIT"
+repository = "https://github.com/marcioiherrero/validador-cpf-cnpj-mih"
+documentation = "https://github.com/marcioiherrero/validador-cpf-cnpj-mih/blob/main/README.md"
+homepage = "https://github.com/marcioiherrero"
+
+[dependencies]
