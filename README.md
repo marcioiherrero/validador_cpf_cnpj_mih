@@ -3,7 +3,7 @@ Instalação:
 No arquivo Cargo.toml de seu projeto, adicionar a dependência na seção: "dependencies" como abaixo:
 ```rust
 [dependencies]
-validador_cpf_cnpj_mih = "0.1.0"
+validador_cpf_cnpj_mih = "0.1.1"
 ```
 
 Exemplo de utilização:
